@@ -1,2 +1,6 @@
 numpy
 liac-arff
+matplotlib
+sklearn
+pandas
+statsmodels
